@@ -7,5 +7,7 @@
  * https://www.kaggle.com/unsdsn/world-happiness?select=2019.csv
  
  Do star the repo if you like it and feel free to raise an issue if there's any problem.
- You can also reach to me at http://ashutoshkrris.herokuapp.com/
- Thanks!
+
+You can also reach to me at http://ashutoshkrris.herokuapp.com/
+ 
+Thanks!
